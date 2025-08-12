@@ -18,4 +18,15 @@ body {
 h1 {
     margin: 1rem 0;
     font-size: 2.5rem;
+    text-align: center;
+    color: purple;
+}
+
+.navs {
+    display: block;
+    text-align: center;
+}
+
+.navs a {
+    text-decoration: none;
 }
