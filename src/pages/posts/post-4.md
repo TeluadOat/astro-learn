@@ -1,12 +1,10 @@
 ---
+layout: ../../layouts/MarkdownPostLayout.astro
 title: Fourth Post
 author: Olubodun Adeola Temidayo
 pubDate: 2025-08-12
 ---
 
-# My Fourth Blog Post
-
-Published on: 2025-08-12
 
 ## What i have accomplished
 
